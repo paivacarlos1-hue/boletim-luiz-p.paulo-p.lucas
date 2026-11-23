@@ -5,5 +5,8 @@ def situacao(m):
     senao, devolve "Reprovado".
     Ex.: situacao(60) -> "Aprovado"
     """
-    # complete aqui: troque o return "?" pelo if
-    return "?"
+    # coplete aqui: troque o return "?" pelo if
+    if m >= 60:
+        return "aprovado"
+    else: 
+        return "reprovado"

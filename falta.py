@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Pedro Paulo dos Santos Batista Torres
 
 def falta(m):
     """Devolve quantos pontos faltam para chegar a 60.
